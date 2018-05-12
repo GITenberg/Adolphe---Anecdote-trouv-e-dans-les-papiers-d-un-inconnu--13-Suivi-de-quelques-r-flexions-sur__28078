@@ -1,0 +1,39 @@
+_repo: Adolphe---Anecdote-trouv-e-dans-les-papiers-d-un-inconnu--13-Suivi-de-quelques-r-flexions-sur__28078
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Constant, Benjamin
+    alias: Rebecque, Henri Benjamin Constant de
+    birthdate: 1767
+    deathdate: 1830
+    gutenberg_agent_id: '5256'
+    url: http://www.gutenberg.org/2009/agents/5256
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Constant
+description: ''
+gutenberg_bookshelf:
+- FR Philosophie, Religion et Morale
+- FR Littérature
+gutenberg_issued: '2009-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28078'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Politics and government -- 1789-1815'
+- !lcsh 'Militarism'
+- !lcsh 'Despotism'
+- !lcsh 'Commitment (Psychology) -- Fiction'
+- !lcsh 'France -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Theater -- Germany'
+- !lcsh 'Schiller, Friedrich, 1759-1805. Wallenstein'
+title: "Adolphe : Anecdote trouvée dans les papiers d'un inconnu\r\nSuivi de quelques\
+  \ réflexions sur le théâtre allemand et sur la tragédie de Wallstein, et de l'esprit\
+  \ de conquête et de l'usurpation"
+url: http://www.gutenberg.org/ebooks/28078
