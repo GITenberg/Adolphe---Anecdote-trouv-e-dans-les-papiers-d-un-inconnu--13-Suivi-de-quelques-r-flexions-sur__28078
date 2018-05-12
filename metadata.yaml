@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5256
     wikipedia: http://en.wikipedia.org/wiki/Benjamin_Constant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28078#Adolphe---Anecdote-trouv-e-dans-les-papiers-d-un-inconnu--13-Suivi-de-quelques-r-flexions-sur_
 gutenberg_bookshelf:
 - FR Philosophie, Religion et Morale
 - FR Littérature
